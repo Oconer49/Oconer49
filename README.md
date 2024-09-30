@@ -32,9 +32,9 @@
 
 ### 
 
-<!--<div align="center">
-  <img src="https://profile-counter.glitch.me/Oconer49/count.svg?" />
-</div>-->
+<div align="center">
+  <img src="https://img.shields.io/static/v1?label=Visitas&message=1000&color=blue" alt="Contador de visitas" />
+</div>
 
 ### 
 

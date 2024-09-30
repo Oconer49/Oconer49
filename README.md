@@ -33,7 +33,9 @@
 ### 
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?label=Visitas&message=1000&color=blue" alt="Contador de visitas" />
+  <a href="https://github.com/Oconer49">
+    <img src="https://badges.pufler.dev/visits/Oconer49/Oconer49?style=flat-square&color=brightgreen" alt="Visit Counter" />
+  </a>
 </div>
 
 ### 

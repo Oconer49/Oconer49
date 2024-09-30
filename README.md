@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github.com/Oconer49/Oconer49/blob/master/banneri.png?raw=true"/>
+  <img src="https://raw.githubusercontent.com/Oconer49/Oconer49/master/banneri.png" />
 </div>
 
 ### 

@@ -46,7 +46,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Oconer49&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=ocean_dark&hide_border=false&custom_title=My%20used%20languages" height="160" alt="languages graph"  />
 </div>
 
-###
+### 
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Oconer49&theme=discord&column=4&row=10&margin-w=8&margin-h=8&no-frame=true" alt="trophy graph" />
@@ -57,9 +57,8 @@
 ###
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Oconer49/Oconer49/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation" />
-<img src="https://raw.githubusercontent.com/Oconer49/Oconer49/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation" />
-
+  <img src="https://raw.githubusercontent.com/Oconer49/Oconer49/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Oconer49/Oconer49/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation" />
 </p>
 
 ###

@@ -3,7 +3,7 @@ name: Update Last Update
 on:
   push:
     branches:
-      - master
+      - main  
   schedule:
     - cron: '0 */12 * * *'
 
@@ -26,4 +26,4 @@ jobs:
       - name: Push changes
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: git push origin master
+        run: git push origin main  # Cambiado de master a main

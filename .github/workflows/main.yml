@@ -1,10 +1,9 @@
 name: Publish new version
-
 on:
   workflow_dispatch:
 
   schedule:
-    - cron: "* */26 * * *"
+    - cron: "0 0 * * *"  # Esto se ejecutará una vez al día a la medianoche
 
   repository_dispatch:
     types:

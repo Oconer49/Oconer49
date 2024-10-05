@@ -1,4 +1,4 @@
-name: generate gh contributions svg sanke animation
+name: generate gh contributions svg snake animation
 
 on:
   schedule:
@@ -8,7 +8,7 @@ on:
 
   push:
     branches:
-      - master
+      - main
 
 jobs:
   generate-svgs:

@@ -46,22 +46,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Oconer49&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=ocean_dark&hide_border=false&custom_title=My%20used%20languages" height="160" alt="languages graph"  />
 </div>
 
-### 
+###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Oconer49&theme=discord&column=4&row=10&margin-w=8&margin-h=8&no-frame=true" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=Oconer49&theme=discord&column=4&row=10&margin-w=8&margin-h=8&no-frame=true" alt="trophy graph" />
   <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Oconer49&radius=16&theme=github-dark&area=true&order=5&custom_title=MY%20ACTIVITY!%20%F0%9F%A7%8F&hide_border=false" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Oconer49&radius=16&theme=github-dark&area=true&order=5&custom_title=MY%20ACTIVITY!%20%F0%9F%A7%8F&hide_border=false" alt="activity-graph graph" />
 </div>
-
-### 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Oconer49/Oconer49/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation" />
-  <img src="https://raw.githubusercontent.com/Oconer49/Oconer49/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation" />
-</p>
-
-###
 
 ###
 

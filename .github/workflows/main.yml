@@ -1,14 +1,11 @@
-name: Publish new version
+name: Update Last Update
 
 on:
-  workflow_dispatch:
-
-schedule:
-  - cron: "* */26 * * *"  # every 26 hours
-
-  repository_dispatch:
-    types:
-      - webhook
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: '0 */12 * * *'
 
 jobs:
   build:
@@ -16,10 +13,17 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - run: |
-          date +%s > lastUpdate
-          git config user.name Oconer49
-          git config user.email b.uribe@utp.edu.co
+      - name: Set up Git
+        run: |
+          git config user.name "Oconer49"
+          git config user.email "b.uribe@utp.edu.co"
+      - name: Update lastUpdate file
+        run: date +%s > lastUpdate
+      - name: Commit changes
+        run: |
           git add lastUpdate
           git diff --quiet && git diff --staged --quiet || git commit -m "[bot] Update with latest"
-          git push origin master
+      - name: Push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: git push origin master

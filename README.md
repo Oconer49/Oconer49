@@ -57,8 +57,9 @@
 ###
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Oconer49/Oconer49/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation" />
-  <img src="https://raw.githubusercontent.com/Oconer49/Oconer49/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation" />
+<img src="https://raw.githubusercontent.com/Oconer49/Oconer49/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation" />
+<img src="https://raw.githubusercontent.com/Oconer49/Oconer49/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation" />
+
 </p>
 
 ###

@@ -2,11 +2,11 @@ name: generate gh contributions svg snake animation
 
 on:
   schedule:
-    - cron: '0 */12 * * *'  # Ejecuta cada 12 horas
-  workflow_dispatch: # Permite ejecutar manualmente la acción
+    - cron: '0 */12 * * *'  # Ejecutar cada 12 horas
+  workflow_dispatch: # Permitir ejecutar manualmente la acción
   push:
     branches:
-      - master  # Ejecuta cuando hay un push en la rama master
+      - master  # Ejecutar cuando hay un push en la rama master
 
 jobs:
   generate-svgs:

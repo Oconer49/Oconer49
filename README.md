@@ -33,9 +33,7 @@
 ### 
 
 <div align="center">
-  <a href="https://github.com/Oconer49">
-    <img src="https://badges.pufler.dev/visits/Oconer49/Oconer49?style=flat-square&color=brightgreen" alt="Visit Counter" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Oconer49&label=Profile%20views&style=for-the-badge" alt="Profile views" />
 </div>
 
 ### 
